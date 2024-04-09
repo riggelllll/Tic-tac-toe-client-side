@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">TicTacToe</string>
+
+    <string name="registration_hint">Enter your name</string>
+    <string name="sign_up">Sign up</string>
+    <string name="name_mustnt_be_empty">The name must not be empty</string>
+    <string name="num_of_games">Number of games: %s</string>
+    <string name="num_of_wins">Number of wins: %s</string>
+    <string name="play">Play</string>
+    <string name="searching_lobby">Searching a lobby</string>
+    <string name="names_of_players">%s VS %s</string>
+    <string name="current_move">Current move: %s</string>
+    <string name="dialog_title">Game over</string>
+    <string name="close">Close</string>
+    <string name="name_hint">Name</string>
+</resources>
