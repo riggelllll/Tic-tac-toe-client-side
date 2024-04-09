@@ -10,24 +10,26 @@ This application implements a gaming interface for playing Tic tac toe on Androi
 
 The project was implemented using the following technologies:
 
-- Java
-- Spring Boot
-- Maven (to manage dependencies and build the project)
+- Kotlin
+- WebSocket 
+- Gradle (to manage dependencies and build the project)
 
 ## !Important
 First you need to start the server, and then run the Android application on an emulator.
 
+## Server side
+Start the server using the following instructions.
+https://github.com/riggelllll/Tic-tac-toe-server-side
+
 ## Installation and launch
 
 1. Clone the repository using the command:
-git clone https://github.com/your_username/your_project.git
-<br><b>OR</b> if you use IntelliJ IDEA , then click on the <b>Get from VCS</b> button on the main screen and paste the URL there.
-2. Go to the project directory.
-3. Build and run the project using Maven: <b>compile exec:java</b>
+git clone https://github.com/riggelllll/Tic-tac-toe-client-side.git
+<br><b>OR</b> if you use Android Studio , then click on the <b>Get from VCS</b> button on the main screen and paste the URL there.
+2. Open the project in Android Studio and run it on your device or emulator.
 
-## Client side
-Launch the Android application on 2 emulators and play.
-https://github.com/riggelllll/Tic-tac-toe-client-side
+## Phone or emulator
+The code is written to run the application on an emulator.
 
 ## Screenshots
 <img src="https://github.com/riggelllll/Tic-tac-toe-server-side/assets/22434402/577d9925-bdb9-439b-b1e0-6149d09f5118" width=25% height=25%>
